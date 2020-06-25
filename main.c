@@ -10,7 +10,6 @@ Initial Security()
  //Sample Code
 }
 
-<<<<<<< HEAD
 
 feature1 {
 }
