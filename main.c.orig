@@ -16,6 +16,10 @@ feature1 {
 }
 securitychange{
 }
+=======
 feature2{}
+
+securitychange{}
+>>>>>>> feature2
 
 }
